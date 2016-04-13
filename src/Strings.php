@@ -2,9 +2,10 @@
 
 namespace Helbrary\Utils;
 
+use Nette\Object;
 use \Nette\Utils\Strings as NStrings;
 
-class Strings
+class Strings extends Object
 {
 
 	/**
